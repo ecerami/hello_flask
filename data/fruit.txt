@@ -1,0 +1,7 @@
+fruit	count
+apples	231
+bananas	12
+pears	321
+pineapples	33
+watermelons	44
+strawberries	423
